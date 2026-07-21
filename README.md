@@ -91,7 +91,6 @@ The GO ERCOT model allows users to choose:
 - **Number of nodes** to retain in the system
 - **Mathematical formulation** (LP for economic dispatch or MILP for unit commitment)
 - **Transmission line capacity scaling factors**
-- **BA-to-BA hurdle rate scaling factors**
 - **Generator commitment scope** (coal only, coal + gas, or economic dispatch only)
 
 ## Model Files (Simulation_folders)
@@ -177,9 +176,6 @@ python simulation_folders/wrapper_simple.py
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue for bugs, feature requests, or improvements.
 
-## License
-
-[Add license information here]
 
 ## References
 
