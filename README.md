@@ -1,6 +1,7 @@
 # GO-ERCOT-2026
 
-Updated GO ERCOT workflow for simulation and analysis of the Electric Reliability Council of Texas (ERCOT) grid operations.
+NOTE: This readme was created using exerpts from sister model "GO WEST" (https://github.com/IMMM-SFA/IM3_WECC/tree/Experiment_Version)
+
 
 ## Overview
 
